@@ -4,7 +4,7 @@
 
 1. Find your config folder
 
-    You can find CS:GOs config folder under the path: `<STEAM>\userdata\<YOURID>\730\local\cfg`.
+   You can find CS:GOs config folder under the path: `<STEAM>\userdata\<YOURID>\730\local\cfg`.
     - Where `<STEAM>` is the location of the STEAM folder on your disk, e.g. `C:\Steam`.
     - Where `<YOURID>` is the ID of your Steam account, e.g. `1234567`.
 
@@ -15,21 +15,9 @@
 4. Create file `personal.cfg` add your personal setting there. See below for an example.
 5. Set CS:GO Launch Options
 
-- Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Set Launch Options...`:
+   Go to `Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Set Launch Options...`:
 
-`-high -tickrate 128 -refresh 144 -novid -noborder -noaafonts -nod3d9ex1 -console +exec autoexec.cfg`
-
-Notes:
-- `-refresh x`
-- `-tickrate x`
-- `-nojoy`
-- `-novid`
-- `-high`
-- `-threads`
-- `-heapsize`
-- `+exec configfile` - executes config at game start
-
-Source: https://developer.valvesoftware.com/wiki/Command_Line_Options
+   Set: `-high -tickrate 128 -refresh 144 -novid -noborder -noaafonts -nod3d9ex1 -console +exec autoexec.cfg`
 
 6. Start CS:GO
 
@@ -81,3 +69,7 @@ Source: https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335
 2. Run game
 3. Close game
 4. Remove `-autoconfig` start option
+
+### What does this CLI option do?
+
+Source: https://developer.valvesoftware.com/wiki/Command_Line_Options
