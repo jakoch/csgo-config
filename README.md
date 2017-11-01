@@ -1,11 +1,24 @@
 # CS:GO Configuration
 
-== Understanding the execution flow of the configuration
+## Understanding the execution flow of the configuration
 
 1. `autoexec.cfg` is loaded, because of the csgo start option entry.
 2. the individual config files are loaded by `autoexec.cfg`
    - firstly, the `base.cfg` is loaded. Giving you a solid base configuration.
-   - secondly, the `personal.cfg` is loaded. Enabling you to overload any prior config value with your personal setting.
+   - secondly, the `personal.cfg` is loaded. Enabling you to overload any prior config values set with your personal settings.
 5. finally, the `autoexec.cfg` runs `host_writeconfig` to write the new `config.cfg`.
 
 That's it.
+
+## Installation
+
+1. Download
+2. Set CS:GO executable start options:
+   - `-high -tickrate 128 -refresh 144 -novid -noborder -noaafonts -nod3d9ex1 -console +exec autoexec.cfg`
+3. Create file `personal.cfg` and add your personal setting there
+4. Start CS:GO
+
+## Console Commands
+
+- `differences` - show all convars which are not at their default values
+- `demoui` - show the demo player
