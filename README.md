@@ -2,7 +2,7 @@
 
 ## Installation
 
-1. Download
+1. Download: https://github.com/jakoch/csgo-config/archive/master.zip
 2. Set CS:GO executable start options:
    - `-high -tickrate 128 -refresh 144 -novid -noborder -noaafonts -nod3d9ex1 -console +exec autoexec.cfg`
 3. Create file `personal.cfg` and add your personal setting there. See below for an example.
