@@ -1,5 +1,21 @@
 # CS:GO Configuration
 
+## Installation
+
+1. Download
+2. Set CS:GO executable start options:
+   - `-high -tickrate 128 -refresh 144 -novid -noborder -noaafonts -nod3d9ex1 -console +exec autoexec.cfg`
+3. Create file `personal.cfg` and add your personal setting there. See below for an example.
+4. Start CS:GO
+
+## `personal.cfg`
+
+```
+
+
+
+```
+
 ## Understanding the execution flow of the configuration
 
 1. `autoexec.cfg` is loaded, because of the csgo start option entry.
@@ -9,14 +25,6 @@
 5. finally, the `autoexec.cfg` runs `host_writeconfig` to write the new `config.cfg`.
 
 That's it.
-
-## Installation
-
-1. Download
-2. Set CS:GO executable start options:
-   - `-high -tickrate 128 -refresh 144 -novid -noborder -noaafonts -nod3d9ex1 -console +exec autoexec.cfg`
-3. Create file `personal.cfg` and add your personal setting there
-4. Start CS:GO
 
 ## Console Commands
 

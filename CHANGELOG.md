@@ -8,5 +8,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ### Added
 - added curl (7.56.0-win64-mingw)
-- added autoexec, which executes `base.cfg`, before `personal.cfg`, then writes `config.cfg`
+- added autoexec, which executes `teambase.cfg`, before `personal.cfg`, then writes `config.cfg`
 - added explaination of configuration execution to readme
+- added installation instructions to readme
