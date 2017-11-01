@@ -5,10 +5,10 @@
 1. Find your config folder
 
     You can find CS:GOs config folder under the path: `<STEAM>\userdata\<YOURID>\730\local\cfg`.
-    Where `<STEAM>` is the location of the STEAM folder on your disk, e.g. `C:\Steam`.
-    Where `<YOURID>` is the ID of your Steam account, e.g. `1234567`.
+    - Where `<STEAM>` is the location of the STEAM folder on your disk, e.g. `C:\Steam`.
+    - Where `<YOURID>` is the ID of your Steam account, e.g. `1234567`.
 
-    For example: `C:\Steam\userdata\987654321\730\local\cfg`.
+   For example: `C:\Steam\userdata\987654321\730\local\cfg`.
 
 2. Download - https://github.com/jakoch/csgo-config/archive/master.zip
 3. Extract the content of `master.zip` into the config folder.
