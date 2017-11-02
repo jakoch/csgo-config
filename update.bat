@@ -1,4 +1,4 @@
-::@echo off
+@echo off
 
 SET CURL_BINARY="tools\curl\curl.exe"
 SET CURL=%CURL_BINARY% --insecure
