@@ -73,7 +73,6 @@ cl_clanid "1"             // clan ID for name decoration (Steam Group ID)
 - `differences` - show all convars which are not at their default values
 - `demoui` - show the demo player
 
-
 ## FAQ
 
 ### How to verifyintegrity of my game files?
@@ -95,3 +94,15 @@ Source: https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335
 ### Where can i find the documentation for CLI options?
 
 https://developer.valvesoftware.com/wiki/Command_Line_Options
+
+## Contributing
+
+Feel free to contribute. Please submit pull requests to us.
+
+## Authors
+
+See https://github.com/jakoch/csgo-config/graphs/contributors
+
+## License
+
+MIT License, see LICENSE.md
