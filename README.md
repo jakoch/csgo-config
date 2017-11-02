@@ -101,6 +101,10 @@ Feel free to contribute. Please submit pull requests to us.
 
 ## Authors
 
+* **Jens A. Koch** - *Initial work* - [jakoch](https://github.com/jakoch)
+
+See also the list of [contributors](https://github.com/jakoch/csgo-config/contributors) who participated in this project.
+
 See https://github.com/jakoch/csgo-config/graphs/contributors
 
 ## License
