@@ -57,7 +57,7 @@ This approach enables you to use a shared team config with personal settings.
 
    Go to `Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Set Launch Options...`:
 
-   Set: `-high -tickrate 128 -refresh 144 -novid -noborder -noaafonts -nod3d9ex1 -console +exec autoexec.cfg`
+   Set: `-high -tickrate 128 -refresh 144 -novid -noaafonts -nod3d9ex1 -console +exec autoexec.cfg`
 
 6. Start CS:GO
 
