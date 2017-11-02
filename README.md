@@ -126,6 +126,10 @@ Source: https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335
 
 https://developer.valvesoftware.com/wiki/Command_Line_Options
 
+### What about video settings?
+
+![CS:GO Video Settings](http://i.imgur.com/YNVSZp4.jpg)
+
 ## Contributing
 
 Feel free to contribute. Please submit pull requests to us.
