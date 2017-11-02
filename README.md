@@ -79,9 +79,22 @@ That's it.
 // ---------------------------
 
 name "johndoe"
-cl_clanid "1"             // clan ID for name decoration (Steam Group ID)
+cl_clanid "1"                       // clan ID for name decoration (Steam Group ID)
+
+// ---------------------------
+// Sensitivity
+// ---------------------------
+sensitivity                  "2"
+zoom_sensitivity_ratio_mouse "1"
+
+// ---------------------------
+// Crosshair 
+// ---------------------------
 
 
+// ---------------------------
+// Keyboard Binds
+// ---------------------------
 
 
 ```
