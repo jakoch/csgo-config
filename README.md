@@ -93,7 +93,7 @@ cl_clanid "1"             // clan ID for name decoration (Steam Group ID)
 
 ## FAQ
 
-### How to verifyintegrity of my game files?
+### How to verify the integrity of my game files?
 
 1. Restart your computer and launch Steam
 2. Go to properties by right-clicking `Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties`
