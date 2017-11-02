@@ -35,9 +35,10 @@ This approach enables you to use a shared team config with personal settings.
 ## Features
 
 - `autoexec.cfg` start option approach
-- updateable configuration file for your team: `teambase.cfg`
-- supports loading a `personal.cfg`
-- re-writes `config.cfg` on CS:GO start
+- solid base configuration file for your team: `teambase.cfg`
+- support for a `personal.cfg`
+- `teambase.cfg` is updateable using cURL via `update.bat`
+- `config.cfg` file is rewritten on CS:GO start
 
 ## Installation
 
