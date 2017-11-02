@@ -15,22 +15,22 @@ A `teambase.cfg`, which is the main configuration file for your team.
 And an `autoexec.cfg`, which loads `teambase.cfg` before loading `personal.cfg`.
 This approach enables you to use a shared team config with personal settings.
 
-**Table of Contents** 
+## **Table of Contents** 
 
-- [CS:GO Configuration](#)
-    - [What's this?](#)
-    - [Features](#)
-    - [Installation](#)
-    - [How does this work?](#)
-    - [Personal Setup - personal.cfg](#)
-    - [Console Commands](#)
-    - [FAQ](#)
-        - [How to verifyintegrity of my game files?](#)
-        - [How can i reset my config to default values?](#)
-        - [Where can i find the documentation for CLI options?](#)
-    - [Contributing](#)
-    - [Authors](#)
-    - [License](#)
+- [CS:GO Configuration](#csgo-configuration)
+    - [What's this?](##whats-this)
+    - [Features](#features)
+    - [Installation](#installation)
+    - [How does this work?](#how-does-this-work)
+    - [Personal Setup - personal.cfg](#personal-setup---personalcfg)
+    - [Console Commands](#console-commands)
+    - [FAQ](#faq)
+        - [How to verify the integrity of my game files?](#how-to-verify-the-integrity-of-my-game-files)
+        - [How can i reset my config to default values?](#where-can-i-find-the-documentation-for-cli-options)
+        - [Where can i find the documentation for CLI options?](#where-can-i-find-the-documentation-for-cli-options)
+    - [Contributing](#contributing)
+    - [Authors](#authors)
+    - [License](#license)
 
 ## Features
 
