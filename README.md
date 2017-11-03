@@ -62,7 +62,8 @@ This approach enables you to use a shared team config with personal settings.
 
    Set: `-high -tickrate 128 -refresh 144 -novid -console +exec autoexec.cfg`
 
-6. Start CS:GO
+6. Start CS:GO and your `config.cfg` is automatically created
+   - From now on, you might pull changes to `teambase.cfg` by using `update.bat`
 
 ## How does this work?
 
