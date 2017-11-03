@@ -22,6 +22,7 @@ This approach enables you to use a shared team config with personal settings.
     - [Features](#features)
     - [Installation](#installation)
     - [How does this work?](#how-does-this-work)
+    - [How to update?](#how-to-update)
     - [Personal Setup - personal.cfg](#personal-setup---personalcfg)
     - [Console Commands](#console-commands)
     - [FAQ](#faq)
@@ -71,6 +72,12 @@ This approach enables you to use a shared team config with personal settings.
 5. finally, the `autoexec.cfg` runs `host_writeconfig` to write the new `config.cfg`.
 
 That's it.
+
+## How to update?
+
+Simply run `update.bat` to update the `teambase.cfg` file.
+
+It will use cURL to download the latest version of `teambase.cfg` from this Github repository.
 
 ## Personal Setup - `personal.cfg`
 
