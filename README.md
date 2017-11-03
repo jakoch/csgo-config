@@ -30,6 +30,7 @@ This approach enables you to use a shared team config with personal settings.
         - [How can i reset my config to default values?](#where-can-i-find-the-documentation-for-cli-options)
         - [Where can i find the documentation for CLI options?](#where-can-i-find-the-documentation-for-cli-options)
         - [Where can i find the complete list of CS:GO console variables?](#where-can-i-find-the-complete-list-of-csgo-console-variables)
+        - [What about video settings?](#what-about-video-settings)
     - [Contributing](#contributing)
     - [Authors](#authors)
     - [License](#license)
@@ -134,13 +135,13 @@ Source: https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335
 
 https://developer.valvesoftware.com/wiki/Command_Line_Options
 
-### What about video settings?
-
-![CS:GO Video Settings](http://i.imgur.com/YNVSZp4.jpg)
-
 ### Where can i find the complete list of CS:GO console variables?
 
 https://developer.valvesoftware.com/wiki/List_of_CS:GO_Cvars
+
+### What about video settings?
+
+![CS:GO Video Settings](http://i.imgur.com/YNVSZp4.jpg)
 
 ## Contributing
 
