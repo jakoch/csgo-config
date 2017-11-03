@@ -28,6 +28,7 @@ This approach enables you to use a shared team config with personal settings.
         - [How to verify the integrity of my game files?](#how-to-verify-the-integrity-of-my-game-files)
         - [How can i reset my config to default values?](#where-can-i-find-the-documentation-for-cli-options)
         - [Where can i find the documentation for CLI options?](#where-can-i-find-the-documentation-for-cli-options)
+        - [Where can i find the complete list of CS:GO console variables?](#where-can-i-find-the-complete-list-of-csgo-console-variables)
     - [Contributing](#contributing)
     - [Authors](#authors)
     - [License](#license)
