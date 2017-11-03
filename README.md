@@ -18,7 +18,7 @@ This approach enables you to use a shared team config with personal settings.
 ## **Table of Contents** 
 
 - [CS:GO Configuration](#csgo-configuration)
-    - [What's this?](##whats-this)
+    - [What's this?](#whats-this)
     - [Features](#features)
     - [Installation](#installation)
     - [How does this work?](#how-does-this-work)
