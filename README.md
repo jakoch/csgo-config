@@ -11,12 +11,12 @@ Normally, you would configure your CS:GO game using the GUI.
 The changes are then saved to the `config.cfg` file or `video.txt` and `videodefaults.txt`.
 
 This repository provides two important files.
-A `teambase.cfg`, which is the main configuration file for your team.
-And an `autoexec.cfg`, which loads `teambase.cfg` before loading `personal.cfg`.
+A `team.cfg`, which is the main configuration file for your team.
+And an `autoexec.cfg`, which loads `team.cfg` before loading `personal.cfg`.
 This approach enables you to use a shared team config with personal settings.
 
 Simply add `autoexec.cfg` to your game start options, so that your `config.cfg` file is rewritten on CS:GO start.
-Then adjust `personal.cfg`to your needs and use `update.bat` to fetch the latest `teambase.cfg`.
+Then adjust `personal.cfg` to your needs. You can Update your `team.cfg` by clicking `update.bat`.
 
 ## **Table of Contents** 
 
@@ -41,9 +41,9 @@ Then adjust `personal.cfg`to your needs and use `update.bat` to fetch the latest
 ## Features
 
 - `autoexec.cfg` start option approach
-- solid base configuration file for your team: `teambase.cfg`
+- solid base configuration file for your team: `team.cfg`
 - support for a `personal.cfg`
-- `teambase.cfg` is updateable using cURL via `update.bat`
+- `team.cfg` is updateable using cURL via `update.bat`
 - `config.cfg` file is rewritten on CS:GO start
 
 ## Installation
@@ -66,13 +66,13 @@ Then adjust `personal.cfg`to your needs and use `update.bat` to fetch the latest
    Set: `-high -tickrate 128 -refresh 144 -novid -console +exec autoexec.cfg`
 
 6. Start CS:GO and your `config.cfg` is automatically created
-   - From now on, you might pull changes to `teambase.cfg` by using `update.bat`
+   - From now on, you might pull changes to `team.cfg` by using `update.bat`
 
 ## How does this work?
 
 1. `autoexec.cfg` is loaded, because of the csgo start option entry.
 2. the individual config files are loaded by `autoexec.cfg`
-   - firstly, the `teambase.cfg` is loaded. Giving you a solid base configuration.
+   - firstly, the `team.cfg` is loaded. Giving you a solid base configuration.
    - secondly, the `personal.cfg` is loaded. Enabling you to overload any prior config values set with your personal settings.
 5. finally, the `autoexec.cfg` runs `host_writeconfig` to write the new `config.cfg`.
 
@@ -80,9 +80,9 @@ That's it.
 
 ## How to update?
 
-Simply run `update.bat` to update the `teambase.cfg` file.
+Simply run `update.bat` to update the `team.cfg` file.
 
-It will use cURL to download the latest version of `teambase.cfg` from this Github repository.
+It will use cURL to download the latest version of `team.cfg` from this Github repository.
 
 ## Personal Setup - `personal.cfg`
 

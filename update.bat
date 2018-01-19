@@ -10,4 +10,4 @@ SET CURL=%CURL_BINARY% --insecure
 :: -z = filetime-based download condition (download file only, if newer)
 :: -v = verbose
 ::
-%CURL% -o "teambase.cfg" -z "teambase.cfg" "https://raw.githubusercontent.com/jakoch/csgo-config/master/teambase.cfg"
+%CURL% -o "team.cfg" -z "team.cfg" "https://raw.githubusercontent.com/jakoch/csgo-config/master/team.cfg"
