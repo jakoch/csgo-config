@@ -15,6 +15,9 @@ A `teambase.cfg`, which is the main configuration file for your team.
 And an `autoexec.cfg`, which loads `teambase.cfg` before loading `personal.cfg`.
 This approach enables you to use a shared team config with personal settings.
 
+Simply add `autoexec.cfg` to your game start options, so that your `config.cfg` file is rewritten on CS:GO start.
+Then adjust `personal.cfg`to your needs and use `update.bat` to fetch the latest `teambase.cfg`.
+
 ## **Table of Contents** 
 
 - [CS:GO Configuration](#csgo-configuration)
