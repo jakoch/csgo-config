@@ -86,6 +86,8 @@ It will use cURL to download the latest version of `team.cfg` from this Github r
 
 ## Personal Setup - `personal.cfg`
 
+To configure your buy binds: https://github.com/jessewebb/csgo-buynds
+
 ```
 // ---------------------------
 // Ident
