@@ -11,3 +11,4 @@ SET CURL=%CURL_BINARY% --insecure
 :: -v = verbose
 ::
 %CURL% -o "team.cfg" -z "team.cfg" "https://raw.githubusercontent.com/jakoch/csgo-config/master/team.cfg"
+%CURL% -o "demos.cfg" -z "demos.cfg" "https://raw.githubusercontent.com/jakoch/csgo-config/master/demos.cfg"
