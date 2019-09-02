@@ -149,6 +149,11 @@ https://developer.valvesoftware.com/wiki/List_of_CS:GO_Cvars
 
 ![CS:GO Video Settings](http://i.imgur.com/YNVSZp4.jpg)
 
+### Where can i find more information about tweaking my CS:GO and PC?
+
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1315092927
+- https://github.com/CHEF-KOCH/GamingTweaks
+
 ## Contributing
 
 Feel free to contribute. Please submit pull requests to us.
