@@ -153,6 +153,7 @@ https://developer.valvesoftware.com/wiki/List_of_CS:GO_Cvars
 
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1315092927
 - https://github.com/CHEF-KOCH/GamingTweaks
+- https://github.com/DevTechProfile/CapFrameX
 
 ## Contributing
 
