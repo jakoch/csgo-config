@@ -152,6 +152,7 @@ https://developer.valvesoftware.com/wiki/List_of_CS:GO_Cvars
 ### Where can i find more information about tweaking my CS:GO and PC?
 
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1315092927
+- https://www.reddit.com/r/CounterStrikeBinds/
 - https://github.com/CHEF-KOCH/GamingTweaks
 - https://github.com/DevTechProfile/CapFrameX
 
