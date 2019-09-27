@@ -143,7 +143,11 @@ https://developer.valvesoftware.com/wiki/Command_Line_Options
 
 ### Where can i find the complete list of CS:GO console variables?
 
+You find the official (and sadly unmaintained) list here:
 https://developer.valvesoftware.com/wiki/List_of_CS:GO_Cvars
+
+For a maintained list of CVars see:
+https://github.com/funeralchris/csgo-list-of-cvars
 
 ### What about video settings?
 
