@@ -18,4 +18,6 @@ SET CURL=%CURL_BINARY% --insecure
 %CURL% -o "botsdm.cfg" -z "botsdm.cfg" "https://raw.githubusercontent.com/jakoch/csgo-config/master/botsdm.cfg"
 %CURL% -o "show_keybinds.cfg" -z "show_keybinds.cfg" "https://raw.githubusercontent.com/jakoch/csgo-config/master/show_keybinds.cfg"
 %CURL% -o "training_rcon.cfg" -z "training_rcon.cfg" "https://raw.githubusercontent.com/jakoch/csgo-config/master/training_rcon.cfg"
+%CURL% -o "block-mm-servers.bat" -z "block-mm-servers.bat" "https://raw.githubusercontent.com/jakoch/csgo-config/master/block-mm-servers.bat"
+%CURL% -o "unblock-mm-servers.bat" -z "unblock-mm-servers.bat" "https://raw.githubusercontent.com/jakoch/csgo-config/master/unblock-mm-servers.bat"
 %CURL% -o "update.bat" -z "update.bat" "https://raw.githubusercontent.com/jakoch/csgo-config/master/update.bat"
