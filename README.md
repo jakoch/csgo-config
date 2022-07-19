@@ -157,7 +157,6 @@ https://github.com/funeralchris/csgo-list-of-cvars
 
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1315092927
 - https://www.reddit.com/r/CounterStrikeBinds/
-- https://github.com/CHEF-KOCH/GamingTweaks
 - https://github.com/DevTechProfile/CapFrameX
 
 ## Contributing
