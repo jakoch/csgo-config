@@ -119,7 +119,7 @@ zoom_sensitivity_ratio_mouse "1"
 - `differences` - show all convars which are not at their default values
 - `demoui` - show the demo player
 
-## FAQ
+# FAQ
 
 ### How to verify the integrity of my game files?
 
@@ -159,16 +159,16 @@ https://github.com/funeralchris/csgo-list-of-cvars
 - https://www.reddit.com/r/CounterStrikeBinds/
 - https://github.com/DevTechProfile/CapFrameX
 
-## Contributing
+# Contributing
 
 Feel free to contribute. Please submit pull requests to us.
 
-## Authors
+# Authors
 
 * **Jens A. Koch** - *Initial work* - [jakoch](https://github.com/jakoch)
 
 See also the list of [contributors](https://github.com/jakoch/csgo-config/contributors) who participated in this project.
 
-## License
+# License
 
 MIT License, see LICENSE.md
