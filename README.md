@@ -56,8 +56,8 @@ Then adjust `personal.cfg` to your needs. You can Update your `team.cfg` by clic
 
    For example: `C:\Steam\userdata\987654321\730\local\cfg`.
 
-2. Download - https://github.com/jakoch/csgo-config/archive/master.zip
-3. Extract `master.zip`, then move the content of the folder `csgo-config-master` into your config folder.
+2. Download - https://github.com/jakoch/csgo-config/archive/main.zip
+3. Extract `main.zip`, then move the content of the folder `csgo-config-main` into your config folder.
 4. Create file `personal.cfg`. Add your personal setting to `personal.cfg`. See below for an example.
 5. Set CS:GO Launch Options
 
