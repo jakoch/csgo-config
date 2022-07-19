@@ -63,7 +63,7 @@ Then adjust `personal.cfg` to your needs. You can Update your `team.cfg` by clic
 
    Go to `Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Set Launch Options...`:
 
-   Set: `-tickrate 128 -novid -console +exec autoexec.cfg`
+   Set: `-tickrate 128 -novid -nojoy -console +exec autoexec.cfg`
 
 6. Start CS:GO and your `config.cfg` is automatically created
    - From now on, you might pull changes to `team.cfg` by using `update.bat`
